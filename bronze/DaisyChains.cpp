@@ -27,3 +27,5 @@ int main() {
     }
     cout << ans;
 }
+
+// i wish i did this in O(N^2) time and i am certain there is such a solution lol
